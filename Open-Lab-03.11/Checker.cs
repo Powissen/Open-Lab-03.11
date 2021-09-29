@@ -9,11 +9,11 @@ namespace Open_Lab_03._11
         {
             if (str == new string(str.Reverse().ToArray()))
             {
-                return true;
+               return true;
             }
             else
             {
-                return false;
+               return false;
             }
         } 
     }
